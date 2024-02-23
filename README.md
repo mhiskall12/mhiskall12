@@ -111,8 +111,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/mhiskall12">
-    <img src="https://github.com/?user=mhiskall282&theme=radical&border=7F3FBF&background=0D1117" alt="Mhiskall's GitHub streak"/>
+  <a href="https://github.com/mhiskall282">
+    <img src="https://github.com/mhiskall282&theme=radical&border=7F3FBF&background=0D1117" alt="Mhiskall's GitHub streak"/>
   </a>
 </p>
 
