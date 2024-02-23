@@ -7,7 +7,7 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/mhiskall"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Backend%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/mhiskall282"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Backend%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=John+Okyere">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Ghana</b> 」
+    「 I am a Enterprise Security and Software Engineer from <b>Ghana</b> 」
     <br>
     <br>
   </samp>
