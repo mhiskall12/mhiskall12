@@ -39,7 +39,7 @@
 
 <p align="center">
  <a href="https://johnokyere.pages.dev" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mhiskall282" />
  </a>
  <a href="https://linkedin.com/in/johnokyere" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mhiskall12"/>
@@ -51,10 +51,10 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/mhiskall.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="mhiskall282" />
  </a> 
  <a href="https://facebook.com/mhiskall123" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mhiskall282"  />
   </a> 
 </p>
 <br />
@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="https://github.com/mhiskall12">
-    <img src="https://github.com/?user=mhiskall282&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github.com/?user=mhiskall282&theme=radical&border=7F3FBF&background=0D1117" alt="Mhiskall's GitHub streak"/>
   </a>
 </p>
 
